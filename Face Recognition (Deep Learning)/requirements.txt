@@ -1,0 +1,12 @@
+python==3.11
+firebase-admin==6.2.0
+tensorflow=2.13.0
+mtcnn==0.1.1
+keras-facenet==0.3.2
+opencv-python
+win-os
+numpy
+matplotlib
+sklearn
+pickle
+joblib
