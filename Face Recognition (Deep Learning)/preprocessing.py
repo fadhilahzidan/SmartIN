@@ -56,3 +56,4 @@ class FACELOADING:
 
 # Declare path from Gdrive
 faceloading = FACELOADING("/content/drive/MyDrive/Face_Recognition/Dataset_v5/") # Default path = "/content/drive/MyDrive/{YOUR_DATASET_PATH}"
+X, Y = faceloading.load_classes()
