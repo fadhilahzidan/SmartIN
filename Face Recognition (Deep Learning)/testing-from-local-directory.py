@@ -22,7 +22,7 @@ loaded_model = pickle.load(open(filename, 'rb'))
 # Declare classes
 class_names = ['Azril', 'Dika', 'Zidan']
 
-# Crop and Import Picture From Goo
+# Crop and Import Picture From local directory (manual file location)
 detector = MTCNN()
 t_im = cv.imread("/content/{File_Name}.jpg")
 t_im = cv.cvtColor(t_im, cv.COLOR_BGR2RGB)
