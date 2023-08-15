@@ -1,4 +1,5 @@
 ## Face Recognition model for smart door technology (IoT Based)
+![Kumpulan_Flowchat__SmartIN___1_-removebg-preview](https://github.com/fadhilahzidan/SmartIN/assets/89997639/0d7a871c-009a-48a3-9c65-b08e8aedebae)
 
 ## Introduction
 This project demonstrates how to build a face recognition system using a combination of image processing techniques, the FaceNet deep learning model, and Support Vector Machines (SVM). It includes the steps for preprocessing facial images, extracting facial embeddings, training an SVM classifier, and evaluating the model's performance.
